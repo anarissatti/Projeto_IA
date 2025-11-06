@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # ✋🎨 Desenhaí!
 
-Desenhe na tela usando apenas gestos das mãos capturados pela webcam!
-O HandDraw é uma aplicação web inovadora em desenvolvimento, que utiliza inteligência artificial para transformar movimentos das mãos em desenhos digitais!
+Desenhe na tela usando apenas gestos das mãos capturados pela webcam
+O Desenha AI é uma aplicação web desenvolvida para a Aula de Inteligencia Artificial do Professor Diego Luis Peres Pires, que utiliza inteligência artificial para transformar movimentos das mãos em desenhos digitais!
 
 ---
 
@@ -63,8 +63,6 @@ React, TypeScript, MediaPipe Hands, Tailwind CSS e Vite.
 Clone o repositório e instale as dependências:
 
 ```bash
-
-cd handraw-pipe
 npm install
 npm run dev
 ```
